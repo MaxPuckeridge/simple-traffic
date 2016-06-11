@@ -1,0 +1,12 @@
+{
+  "name": "simple-traffic",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Max Puckeridge",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
